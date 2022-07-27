@@ -1,6 +1,12 @@
 ![](https://camo.githubusercontent.com/19bdb3f9075158459df33d729ae335ce48f95494c9fdf6d5c83af2ba09b5c43b/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f62616e6e6572732f313531393032333935363332393634343033332f313635303939383834332f3130383078333630)
 
-Unit Network is an economic infrastructure for the creation and management of DAOs and soon the mainstream adoption of the token economy. Take your business or brand to the next level by harnessing the power of Web3.
+
+
+Hi There,
+I'm Nicholas Dunn. Unit Network is an economic infrastructure for the creation and management of DAOs and soon the mainstream adoption of the token economy. Take your business or brand to the next level by harnessing the power of Web3.
+
+Best Regards,
+Nicholas Dunn
 
 
 
