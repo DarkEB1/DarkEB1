@@ -17,7 +17,7 @@
 
 
 
-[](![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DarkEB1))
+[] ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DarkEB1)
 
 [//]: # (![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkEB1&show_icons=true&count_private=true)  
 
