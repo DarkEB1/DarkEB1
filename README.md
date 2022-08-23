@@ -1,8 +1,8 @@
 
 [//]: # (### Hi There,<br>)
-I'm DarkEB1 (EBI is shrimp in Japanese). Currently working as a developer for the unit network - helping to create a better future through the more equitable distribution of wealth. Self taught in every language I know. Feel free to reach me at any of my socials outlined in the icons below! <br>
-Rgds,<br> 
-DarkEB1
+[//]: # (I'm DarkEB1 -EBI is shrimp in Japanese-. Currently working as a developer for the unit network - helping to create a better future through the more equitable) [//]: # (distribution of wealth. Self taught in every language I know. Feel free to reach me at any of my socials outlined in the icons below! <br>)
+[//]: # (Rgds,<br> )
+[//]: # (DarkEB1)
 
 
 
