@@ -1,5 +1,5 @@
 
-# High school student - Learning Blockchain Development, Cryptography, Penetration Testing
+# Blockchain Development, Cryptography, Penetration Testing, Low Level Learning
 
 ### eb1.eth
 
@@ -7,11 +7,11 @@
 
 [//]: # (### It seems you have found my readme - let me introduce myself)
 
-[//]: # (I'm DarkEB1 -EBI is shrimp in Japanese-. Currently working as a developer for the unit network - helping to create a better future through the more equitable)
+[//]: # (I'm DarkEB1 -EBI is shrimp in Japanese-. Currently working as a research engineer for guardian labs - helping to transform blockchain security)
 
-[//]: # (distribution of wealth. Self taught in every language I know. Feel free to reach me at any of my socials outlined in the icons below! <br>)
+[//]: # (Self taught in every language I know. Feel free to reach me at any of my socials! Although I won't respond <br>)
 
-[//]: # (Also prolly worth mentioning I'm a grey/white...)
+[//]: # (My crime is that of curiosity.)
 
 [//]: # (Rgds,<br> )
 
